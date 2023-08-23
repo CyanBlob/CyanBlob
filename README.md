@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/CyanBlob">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CyanBlob&show_icons=true&include_all_commits=true&theme=gruvbox&show_icons=true)">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyanBlob&theme=gruvbox&layout=compact">
+</a>
+
+[![CyanBlob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyanBlob)](https://github.com/CyanBlob/github-readme-stats)
