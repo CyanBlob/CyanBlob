@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyanBlob&theme=gruvbox&layout=compact">
 </a>
 
-[![CyanBlob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyanBlob&v=2&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![CyanBlob's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyanBlob&v=2&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
